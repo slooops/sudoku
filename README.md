@@ -88,4 +88,4 @@ $ git commit -am "describe what you changed"
 $ git push
 ```
 
-Pat yourself on the back, good work!
+Pat yourself on the back, good work! Now lets clean up the file and repeat for the next guy!
