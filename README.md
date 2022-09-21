@@ -85,7 +85,9 @@ $ git status
 ###### Commit your work!
 ```
 $ git commit -am "describe what you changed"
-$ git push
+$ git push -u origin <brandName>
 ```
 
 Pat yourself on the back, good work!
+
+In the future, please do not merge your own pull requests. To work collaboratively, at least one team member should review new work before committing to our shared codebase.
