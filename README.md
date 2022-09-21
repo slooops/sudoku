@@ -35,13 +35,13 @@ $ gh auth login
 
 follow this sequence of commands:
 >   ? GitHub.com
-    ? HTTPS
-    ? Yes
-    ? Login with a web browser
-    copy your one-time code:
-    Hit Enter
-    Paste
-    Authorize
+>   ? HTTPS
+>   ? Yes
+>   ? Login with a web browser
+>   copy your one-time code:
+>   Hit Enter
+>   Paste
+>   Authorize
 
 Wait ...
 
