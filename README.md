@@ -2,14 +2,12 @@
 #### CS3099 Software Engineering Project
 ###### Team Members: Finn, Tianchen, Jason, Benedict, & Jack
 
-My Name is:
 I'm owning these parts of the project:
 
 >Networking: <"Name">
 >UI: Jack
 >Logic: Tianchen
 >Backend: <"Name">
-Hello.
 
 ---
 ## Getting Started
@@ -36,7 +34,7 @@ $ gh auth login
 ```
 
 follow this sequence of commands:
-:   ? GitHub.com
+>   ? GitHub.com
     ? HTTPS
     ? Yes
     ? Login with a web browser
@@ -44,10 +42,11 @@ follow this sequence of commands:
     Hit Enter
     Paste
     Authorize
-    ...
 
-    Have Jack add you to the repo
-    Tick your checkboxes
+Wait ...
+
+>Have Jack add you to the repo
+>Tick your checkboxes
 
 ###### Clone the repo
 ```
@@ -66,8 +65,8 @@ Open the link created to visit the repo and review your first pull request!
 #### A Guide to Future Updates
 Update your local branch *BEFORE* you start working (so as to avoid conflicts with existing work)
 ```
-$ git fetch upstream
-$ git rebase upstream/trunk
+$ git fetch origin
+$ git rebase origin/main
 ```
 ###### Make a new branch to work on
 
@@ -86,7 +85,9 @@ $ git status
 ###### Commit your work!
 ```
 $ git commit -am "describe what you changed"
-$ git push
+$ git push -u origin <brandName>
 ```
 
-Pat yourself on the back, good work! Now lets clean up the file and repeat for the next guy!
+Pat yourself on the back, good work!
+
+In the future, please do not merge your own pull requests. To work collaboratively, at least one team member should review new work before committing to our shared codebase.
