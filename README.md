@@ -2,13 +2,14 @@
 #### CS3099 Software Engineering Project
 ###### Team Members: Finn, Tianchen, Jason, Benedict, & Jack
 
-My Name is: 
+My Name is:
 I'm owning these parts of the project:
 
 >Networking: <"Name">
 >UI: Jack
->Logic: <"Name">
+>Logic: Tianchen
 >Backend: <"Name">
+Hello.
 
 ---
 ## Getting Started
@@ -50,7 +51,7 @@ follow this sequence of commands:
 
 ###### Clone the repo
 ```
-$ gh repo clone https://github.com/slooops/sudoku.git	
+$ gh repo clone https://github.com/slooops/sudoku.git
 ```
 
 ###### Make your first pull request
@@ -58,7 +59,7 @@ $ gh repo clone https://github.com/slooops/sudoku.git
 $ git checkout -b firstBranch
 $ git commit -am "this is my first commit"
 $ git push -u origin firstBranch
- 
+
 Open the link created to visit the repo and review your first pull request!
 ```
 ---
@@ -79,7 +80,7 @@ $ git push -f
 ```
 $ git diff
 $ q
-$ git status 
+$ git status
 ```
 
 ###### Commit your work!
