@@ -28,21 +28,27 @@ git config --global user.email <email>
 
 ###### Install and Login to Github
 
+###### Mac
 ```
 $ brew install gh
-$ gh auth login
+```
+###### PC
+```
+$ choco install gh
 ```
 
-follow this sequence of commands:
+Follow this sequence of commands:
 ```
- ? GitHub.com
- ? HTTPS
- ? Yes
- ? Login with a web browser
-   copy your one-time code:
-   Hit Enter
-   Paste
-   Authorize
+$ gh auth login
+...
+? GitHub.com
+? HTTPS
+? Yes
+? Login with a web browser
+  copy your one-time code:
+  Hit Enter
+  Paste
+  Authorize
 ```
 Wait ...
 
