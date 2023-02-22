@@ -1,5 +1,5 @@
 # Sudoku
-#### CS3099 Software Engineering Project
+#### CS3099 Software Engineering Project Git Tutorial
 ###### Team Members: Finn, Tianchen, Jason, Benedict, & Jack
 
 I'm owning these parts of the project:
